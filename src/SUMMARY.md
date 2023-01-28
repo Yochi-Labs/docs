@@ -1,11 +1,11 @@
 # Yochi Labs
 
-- [ℹ WhoisYochiLabs](./WhoIsYoChiLabs.md)
+# Yochi Labs
 
-- [ℹ How Yochi Works](./HowYochiWorks.md)
-- [ℹ Real-time Threat Detection System](./ThreatDetectionSystem.md)
-- [ℹ Threat Detection System](./ThreatDetectionSystem.md)
+* [YochiLabs](./WhoIsYoChiLabs.md)
+* [How Yochi Works](./HowYochiWorks.md)
+* [Real-time Threat Detection System](./ThreatDetectionSystem.md)
+* [Threat Alerts System](./ThreatAlertsSystem.md)
+* [NFT Guardian](./NFTGuardian.md)
 
-- [ℹ NFT Guardian](./NFTGuardian.md)
-
-
+# About

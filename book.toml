@@ -1,6 +1,14 @@
 [book]
-authors = ["Madao"]
+authors = ["Yochi Labs"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Yochi Labs"
+
+[output.html]
+additional-css = ["main.css"]
+cname = "docs.yochilabs.com"
+no-section-label = true
+
+[output.html.fold]
+level = 0

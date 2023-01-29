@@ -7,4 +7,5 @@
 * [NFT Guardian](./NFTGuardian.md)
 
 # About
-* [YochiLabs](./WhoIsYoChiLabs.md)
+
+- [YochiLabs](./WhoIsYoChiLabs.md)
